@@ -55,6 +55,7 @@
 	"MenuUpdate" : "KC3改 Update",
 	"MenuOnLatest" : "You're on Latest",
 	"MenuScheduledNow" : "Scheduled now",
+	"MenuScheduledSoon" : "Soon...",
 	"MenuPvPReset" : "Next PvP Reset",
 	"MenuQuestReset" : "Next Quest Reset",
 	"MenuServerMaintenance" : "Game Maintenance",
@@ -133,9 +134,9 @@
 	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> by <strong>Diablohu</strong>, for Strategy Room Ship Database",
 	"AboutSourceGakadaVoices": "<strong>gakada</strong> for <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">coming up with breakthroughs</a> on voice line decoding",
 	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> for <a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">scraping kancolle wikia</a> of the latest shipgirl quotes",
-	"AboutSourceApaapaTranslations": "<strong>阿帕</strong> for providing <a href=\"https://www.ptt.cc/bbs/KanColle/M.1388052194.A.81A.html\" target=\"_blank\">tcn subtitle quotes</a>",
 	"AboutSubtitleContributors": "Thanks to the contributors on the <a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">subtitle verification</a> with some even doing the fixes themselves",
 	"AboutSubtitleContributorsOther": "and others who didn't specify their name",
+	"AboutSubtitleTranslators": "Thanks to the translators providing shipgirl quotes to their respective languages",
 	
 	"SettingsTitle" : "KC3改 Settings",
 	
@@ -145,6 +146,7 @@
 	"SettingsELosSum" : "Sum",
 	"SettingsELosOld" : "Old",
 	"SettingsELosNew" : "New",
+	"SettingsELosF33" : "Formula 33",
 	"SettingsHQExpDetail"  : "HQ Exp Info",
 	"SettingsHQExpLeft"    : "Remaining EXP",
 	"SettingsHQExpCurrent" : "Current Level",
@@ -304,6 +306,8 @@
 	"BattleMapKills"     : " kills",
 	"BattleMapNoHpGauge" : "No gauge",
 	"BattleSupportExped" : "Support expedition triggered?",
+	"BattleSupportTips"  : "Support fleet {0} has arrived!\n{1} support triggered!",
+	"BattleAntiAirCutIn" : "Anti-Air cut-in triggered?",
 	"BattleItemDrop"     : "Special item drop",
 	"BattleNightNeeded"  : "Night battle needed?",
 	"BattleRating"       : "Battle Rating",
@@ -350,6 +354,7 @@
 	"PanelAkashi" : "Akashi",
 	"PanelNoRepair" : "No repairs needed",
 	"PanelCantRepair" : "Cannot repair",
+	"PanelTaihaHpLeft" : "Taiha HP = {0}, {1} left",
 	"PanelHighestDocking" : "Highest Repair Docks Time",
 	"PanelHighestAkashi" : "Highest Akashi Repair Time",
 	"PanelRepairMoreDays" : "More than 24 hours",
@@ -376,6 +381,7 @@
 	"PanelToggleSounds" : "Toggle Sounds",
 	"PanelFitWindow" : "Fit Window",
 	"PanelExportToKCDB" : "Export to Kancolle-calc DeckBuilder",
+	"PanelToggleQuestComplete" : "Toggle Quest Completion Status",
 	
 	"MissionLabelActivity" : "Status",
 	"MissionGetItems" : "Get Items:",
@@ -477,6 +483,7 @@
 	
 	"MasterShipSaltCheck" : "Existence Accept",
 	"MasterShipSaltUnCheck" : "Existence Deny",
+	"MasterShipGoQuotes" : "Check Quotes",
 	
 	"Dummy" : "Dummy"
 	

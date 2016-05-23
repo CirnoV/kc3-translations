@@ -54,12 +54,13 @@
 	"MenuUpdate"       : "アップデート",
 	"MenuPvPReset"     : "次の演習リセット",
 	"MenuQuestReset"   : "デイリーリセット",
-	"MenuChangelog" : "(変更履歴)",
-	"MenuOnLatest" : "すでに最新",
-	"MenuScheduledNow" : "予定間もなく",
+	"MenuChangelog"    : "(変更履歴)",
+	"MenuOnLatest"     : "すでに最新",
+	"MenuScheduledNow" : "間もなく",
+	"MenuScheduledSoon": "予定待ち",
 	"MenuServerMaintenance" : "メンテナンス状況",
-	"MenuTimeUnknown" : "次回未定",
-	"MaintenanceComplete": "お知らせ待ち",
+	"MenuTimeUnknown"       : "次回未定",
+	"MaintenanceComplete"   : "お知らせ待ち",
 
 	"GameDMMRedirect" : "一番下にある艦これを起動するを押すことで、DMMで艦これページに飛べます",
 	"GameDMMFrame" : "DMMサイトのゲームページをiFrameで表示します。",
@@ -133,9 +134,9 @@
 	"AboutSourceWhoCallsTheFleet": "<a href=\"https://github.com/Diablohu/WhoCallsTheFleet\" target=\"_blank\">WhoCallsTheFleet</a> は<strong>Diablohu</strong>からの提供で艦娘データベースに使って頂きます",
 	"AboutSourceGakadaVoices": "<strong>gakada</strong> の提案 (<a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">coming up with breakthroughs</a>) で艦娘のセリフ音声解析できるようになります",
 	"AboutSourceMdmsScottQuotes": "<strong>mdms-scott</strong> の最新英語版艦娘セリフ (<a href=\"https://github.com/mdms-scott/kk_wiki_scraper\" target=\"_blank\">scraping kancolle wikia</a>) を字幕に使って頂きます",
-	"AboutSourceApaapaTranslations": "<strong>阿帕</strong>からの<a href=\"https://www.ptt.cc/bbs/KanColle/M.1388052194.A.81A.html\" target=\"_blank\">中国語繁体字の艦娘セリフ</a> を字幕に使って頂きます",
 	"AboutSubtitleContributors": "<a href=\"https://docs.google.com/spreadsheets/d/1wg7pCv3l6g8BfOye3-DbrCuYDhTvSX4h1UuiRCp0_K8\" target=\"_blank\">英語字幕正確さのチェック表</a>に貢献してくれた方々に感謝",
 	"AboutSubtitleContributorsOther": "もちろんその中名も残さずの者達へも",
+	"AboutSubtitleTranslators": "艦娘セリフをそれぞれの言語に通訳する翻訳者たちに感謝",
 
 	"SettingsTitle" : "KC3改の設定",
 
@@ -302,6 +303,7 @@
 	"Expedition" : "遠征",
 	"UntranslatedQuest" : "まだデータのない新たな任務",
 	"UntranslatedQuestTip" : "この任務のデータはまだ更新されていないため、ゲーム内で確認しかありません。",
+	"PanelToggleQuestComplete" : "任務完成状態に切り替えられます",
 	"PanelToggleSounds" : "音声切り替え",
 	"PanelFitWindow"    : "サイズ最適化",
 	"PanelExportToKCDB" : "Kancolle-calc DeckBuilderへ出力",
@@ -319,6 +321,8 @@
 	"BattleMapKills"     : " 回",
 	"BattleMapNoHpGauge" : "ゲージなし",
 	"BattleSupportExped" : "遠征支援艦隊が到着？",
+	"BattleSupportTips"  : "第{0}支援艦隊が到着しました！\n支援{1}、開始！",
+	"BattleAntiAirCutIn" : "対空カットインが発動？",
 	"BattleItemDrop"     : "期間限定アイテムドロップ",
 	"BattleNightNeeded"  : "夜戦が必要？",
 	"BattleRating"       : "戦闘評価",
@@ -362,10 +366,11 @@
 	"StrategyEventGo"      : "イベント",
 	"StrategyEvents1HP"    : "ラスダン！",
 
-	"PanelDocking"    : "入渠",
-	"PanelAkashi"     : "明石",
-	"PanelNoRepair"   : "修理する必要なし",
-	"PanelCantRepair" : "泊地修理不能",
+	"PanelDocking"     : "入渠",
+	"PanelAkashi"      : "明石",
+	"PanelNoRepair"    : "修理する必要なし",
+	"PanelCantRepair"  : "泊地修理不能",
+	"PanelTaihaHpLeft" : "大破の耐久値{0}まであと{1}",
 	"PanelHighestDocking"  : "最大の入渠修理時間",
 	"PanelHighestAkashi"   : "最大の泊地修理時間",
 	"PanelRepairMoreDays"  : "24時間以上",
@@ -401,7 +406,7 @@
 	"NatsuiroActivity" : "結果",
 
 	"MissionLabelActivity" : "遠征",
-	"MissionGetItems"  : "入手アイテム：",
+	"MissionGetItems"  : "獲得アイテム：",
 	"MissionActivity0" : "中止",
 	"MissionActivity1" : "失敗",
 	"MissionActivity2" : "成功",
@@ -476,6 +481,7 @@
 
 	"MasterShipSaltCheck" : "この艦を許してる",
 	"MasterShipSaltUnCheck" : "この艦を許さん！",
+	"MasterShipGoQuotes" : "字幕セリフチェック",
 
 	"Dummy" : "ダミー"
 
